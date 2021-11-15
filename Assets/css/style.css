@@ -2,6 +2,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  
+ 
 }
 
 textarea {
@@ -11,6 +13,7 @@ textarea {
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+  
 }
 
 .jumbotron {
@@ -27,12 +30,12 @@ textarea {
 
 .time-block {
   text-align: center;
-  border-radius: 15px;
-}
+   border-radius: 15px;
+ }
 
 .row {
   white-space: pre-wrap;
-  height: 80px;
+  height: 60px;
   border-top: 1px solid white;
 }
 
@@ -40,6 +43,7 @@ textarea {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+   
 }
 
 .past {
