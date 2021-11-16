@@ -1,6 +1,6 @@
 # ScheduleMe
 **A Day Planner**
-[ScheduleMe]()
+[ScheduleMe](https://daveydavey1901.github.io/ScheduleMe/)
 Description
 This weeks homework is to create a simple calendar application.
 it has to:-
